@@ -5,7 +5,7 @@
   - Python lists
   - Functions and Packages
   - Numpy  
-**2. Intermediate python for Data Science**
+#### 2. Intermediate python for Data Science**
   - Matplotlib
   - Dictionaries & pandas
   - Logic, control flow and filtering
