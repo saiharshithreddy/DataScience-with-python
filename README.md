@@ -7,11 +7,11 @@
   - Functions and Packages
   - Numpy  
 #### 2. Intermediate python for Data Science
-  - Matplotlib
-  - Dictionaries & pandas
-  - Logic, control flow and filtering
-  - Loops
-  - Case study: Hacker statistics  
+  - [Matplotlib](https://github.com/harshithreddyhr9/DataScience-with-python/blob/master/2.Intermediate_Python_fordatascience/Matplotlib.ipynb)  
+  - [Dictionaries & pandas](https://github.com/harshithreddyhr9/DataScience-with-python/blob/master/2.Intermediate_Python_fordatascience/Dictionaries.ipynb)
+  - [Logic, control flow and filtering](https://github.com/harshithreddyhr9/DataScience-with-python/blob/master/2.Intermediate_Python_fordatascience/Logic%20control%20and%20flow.ipynb)
+  - [Loops](https://github.com/harshithreddyhr9/DataScience-with-python/blob/master/2.Intermediate_Python_fordatascience/Loops.ipynb)
+  - [Case study: Hacker statistics](https://github.com/harshithreddyhr9/DataScience-with-python/blob/master/2.Intermediate_Python_fordatascience/Case%20study%20hacker%20statistics.ipynb)
 #### 3. Python Data Science Toolbox - 1
   - Writing your own functions
   - Default arguments, variable length arguments and scope
